@@ -1,0 +1,9 @@
+<!-- HTTP通信ライブラリプロジェクト -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- プロジェクト定義 -->
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
