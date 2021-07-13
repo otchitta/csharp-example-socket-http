@@ -1,0 +1,13 @@
+<!-- HTTP通信ライブラリプロジェクト -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- プロジェクト定義 -->
+  <ItemGroup>
+    <ProjectReference Include="..\Common.Code\Libraries.Socket.Http.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>

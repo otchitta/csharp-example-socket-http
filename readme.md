@@ -1,4 +1,4 @@
 # HTTP通信サンプル
 
-TcpClientを利用せず、HTTP通信を行うサンプルです。
+HttpListenerを利用せず、TcpClientのみ利用しHTTP通信を行うサンプルです。
 勉強用のサンプルコードとなります。
